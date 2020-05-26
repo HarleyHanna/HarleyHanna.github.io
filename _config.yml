@@ -1,11 +1,11 @@
 # Site settings
-author: Harley Hanna
-title: 
+author: Harley M Hanna
+title: Metatron Analysis
 header-img: img/home-bg.png
 email: harleyhannawrit@gmail.com
-copyright_name: Harley Hanna
+copyright_name: Harley M Hanna
 description: > # this means to ignore newlines until "baseurl:"
-  
+  There's going to be things here.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  HarleyHanna
