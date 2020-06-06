@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**The Journey**"
-date:       2020-06-06 11:48:30 +0000
+title:      "The Journey"
+date:       2020-06-06 07:48:31 -0400
 permalink:  the_journey
 ---
 
